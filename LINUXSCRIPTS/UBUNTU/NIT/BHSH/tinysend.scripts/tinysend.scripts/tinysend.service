@@ -1,0 +1,13 @@
+[Unit]
+Description=Tinysend Script start at startup
+After=syslog.target network.target
+
+[Service]
+Type=oneshot
+User=root
+Group=root
+WorkingDirectory=/var/share/tmp
+ExecStart=/var/share/tmp/tinysend.scripts/tinysend.TinySendRun.sh
+
+[Install]
+WantedBy=multi-user.target
