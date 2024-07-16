@@ -1,0 +1,6 @@
+astra-imgBuild -- Bilding an Custom Astra Linux Image with Docker Container\nÂ
+descript.ion -- a Directory Description (this file)\nÂ
+Astra-postinstallos - A Directory with Files Containing Post installation Scripts and Features\nÂ
+INSTALL.md -- a Description of Target Astra Linux Image for Installation\nÂ
+README.md -- a Description of the Project\nÂ
+TEMP -- a Temprorary Directory for Building an Archive\nÂ

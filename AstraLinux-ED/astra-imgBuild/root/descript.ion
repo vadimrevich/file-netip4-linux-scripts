@@ -1,0 +1,8 @@
+preseed.Astra.cfg -- A preseed file with Answers for a Custom Distributive Building (may be edited but is not recommended)\nÂ
+descript.ion - A Directory Description (this file)\nÂ
+Astra_Linux_Initial.iso.plug - A Plug File for an Astra_Linux_Initial.iso Image File (mus be present)\nÂ
+makeBuildImg.sh -- A File for Bulding an Astra Linux Custom Installation Image File nit_astra.iso\nÂ
+deleteAuxFileFolders.sh -- Auxiliary File for Delete a Temporary Files and Folders\nÂ
+makeBuildISO.Old.sh -- A Script for Making Prapared ISO (auxiliary File)\nÂ
+replacePreseedCnf.sh -- an Auxiliary Script for Changing a Preseed.cfg File\nÂ
+setVars.sh -- Auxiliary File with Projects Variables\nÂ

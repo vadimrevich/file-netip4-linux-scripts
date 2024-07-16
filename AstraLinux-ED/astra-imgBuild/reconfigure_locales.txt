@@ -1,0 +1,21 @@
+# Reconfigure Locales
+
+(must be run at each Container Creation)
+
+1. Run Commands as root:
+```
+dpkg-reconfigure locales
+```
+
+2. Press key 'Enter' next times and print a locales numbers:
+```
+ 386 387 388
+```
+3. Set default language: `5 (ru_RU.UTF8)`
+4. You must wait a time and you can root an Image Creation:
+```
+cd ~
+./makeBuildImg.sh
+```
+5. Bingo!
+

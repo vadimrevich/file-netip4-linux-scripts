@@ -1,0 +1,4 @@
+postinst.sh -- The Post Install Script for Astra Linux at "/root/extra/postinst.sh"\nÂ
+descript.ion -- a Directory Description (this File)\nÂ
+SETUPDIR -- The Scripts with Additional Settings for an Astra Linux Distributives (must be Installed)\nÂ
+packages -- The Directory with Auxiliary Scripts for Astra Linux Features (may be Installed)\nÂ

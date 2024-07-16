@@ -1,0 +1,17 @@
+
+###### crontab.NIT.source Additional Users' File ######
+####
+#### This File for Additional Users' Crontab's Rules ####
+#
+1-51/10 * * * * root cd / && run-parts --report /etc/cron.NIT.quint
+3-48/15 * * * * root cd / && run-parts --report /etc/cron.NIT.quart
+*/30 * * * * root cd / && run-parts --report /etc/cron.NIT.half
+4 12 * * * root cd / && run-parts --report /etc/cron.NIT.dayly
+@reboot root  cd / && run-parts --report /etc/cron.NIT.rebootdir
+7 12 * * * root /etc/crontab.NIT.killfile.sh
+9 12 * * * root /etc/crontab.NIT.loadfile.sh
+
+####
+#### The End for Additionals Users' Rules ####
+####
+

@@ -1,0 +1,7 @@
+Dockerfile -- Docker File for Making a Docker Container with Astra Linux to Build a Custom Example Distributive\nÂ
+docker-build.bat -- the Script to Build a Docker Image with Astra Linux\nÂ
+docker-run-rm.bat -- The Script for run a Docker Container with Astra LInux\nÂ
+descript.ion -- a Directory Description (this file)\nÂ
+reconfigure_locales.txt -- The Instruction for Reconfigure locales at an Astra Linux Container\nÂ
+setup -- A Setup Directory for Docker Container with Auxiliary Files\nÂ
+root  -- A Root Directory within Container (may be changed)\nÂ
