@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=BASH Install
+Type=Application
+NoDisplay=false
+Exec=/usr/bin/sudo /bin/sh $HOME/packages/NIT/sudo_bash_install.sh
+Hidden=false
+Terminal=true
+StartupNotify=false

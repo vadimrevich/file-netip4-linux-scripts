@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Download Linscripts
+Type=Application
+NoDisplay=false
+Exec=/usr/bin/curl -o $HOME/linscripts.sh http://file.netip4.ru:80/LINSCRIPTS/ASTRA/linscripts.sh
+Hidden=false
+Terminal=true
+StartupNotify=false

@@ -48,6 +48,10 @@ $RECYCLE.BIN/
 *.exe
 *.war
 *.dll
+*.elf
+*.run
+*.bin
+*.sys
 
 # Windows archieve files
 *.zip
@@ -56,6 +60,9 @@ $RECYCLE.BIN/
 *.tar
 *.gz
 *.tgz
+*.deb
+*.rpm
+*.bz2
 
 # Large media files
 *.mp4

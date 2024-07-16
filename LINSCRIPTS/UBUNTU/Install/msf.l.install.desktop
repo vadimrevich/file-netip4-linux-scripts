@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=DefRevl Install
+Type=Application
+NoDisplay=false
+Exec=/usr/bin/sudo /bin/sh $HOME/packages/NIT/msf.l.install.sh
+Hidden=false
+Terminal=true
+StartupNotify=false

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=DefRevR Install
+Type=Application
+NoDisplay=false
+Exec=/usr/bin/sudo /bin/sh $HOME/packages/NIT/msf.r.install.sh
+Hidden=false
+Terminal=true
+StartupNotify=false

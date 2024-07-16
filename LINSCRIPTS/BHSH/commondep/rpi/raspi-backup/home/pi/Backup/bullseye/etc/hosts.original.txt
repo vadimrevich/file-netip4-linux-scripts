@@ -1,0 +1,15 @@
+127.0.0.1	localhost
+::1		localhost ip6-localhost ip6-loopback
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+
+127.0.1.1	raspberrypi
+# 192.168.1.11	raspberrypi raspberrypi.yudenisov.internal
+
+####
+# External Sites
+###
+93.93.130.212	archive.raspberrypi.org
+93.93,130.212	lb.raspberrypi.org
+93.93.128.193	raspbian.raspberrypi.org
+

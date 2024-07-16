@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Run Linscripts
+Type=Application
+NoDisplay=false
+Exec=/bin/sh $HOME/linscripts.sh
+Hidden=false
+Terminal=true
+StartupNotify=false

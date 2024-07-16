@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=NIT AdminPack Install
+Type=Application
+NoDisplay=false
+Exec=/usr/bin/sudo /bin/bash $HOME/packages/NIT/nit.adminpack.downloadrun.sh
+Hidden=false
+Terminal=true
+StartupNotify=false

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=CURL Install
+Type=Application
+NoDisplay=false
+Exec=/usr/bin/sudo /bin/sh $HOME/packages/NIT/curl_install.sh
+Hidden=false
+Terminal=true
+StartupNotify=false
